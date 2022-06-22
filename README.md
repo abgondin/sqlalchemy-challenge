@@ -6,7 +6,9 @@ The goal was to create a SQL database from six CSV files that contain employees 
 
 ### Data Modeling
 
-An ERD diagram of the tables was created using the following tool: http://www.quickdatabasediagrams.com.
+An ERD diagram of the tables was created using http://www.quickdatabasediagrams.com.
+
+![ERD](https://user-images.githubusercontent.com/77761497/175016182-86b790bb-469d-487a-88df-dd36b5857021.png)
 
 ### Data Engineering
 
