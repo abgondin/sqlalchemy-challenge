@@ -1,4 +1,4 @@
-# 11 SQLAlchemy - Climate App
+# 10 SQLAlchemy - Climate App
 
 ## Background
 
